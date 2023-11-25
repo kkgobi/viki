@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: rgb(74, 85, 56);
+    border-radius: 15px;
+    color: rgb(190, 207, 190);
+    font-size: 35px;
+    font-family: cursive;
+    padding: 10px 0px;
+}
+.qq{
+    text-align: center;
+    font-size: 20px;
+}
+.ww{
+    text-align: center;
+}
+header {
+    background-color: rgb(226, 234, 178);
+}
+header img{
+    text-align: center;
+}
