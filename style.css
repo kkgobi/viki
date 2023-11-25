@@ -10,13 +10,30 @@ h1{
 .qq{
     text-align: center;
     font-size: 20px;
+    background-color: rgb(225, 226, 155);
 }
 .ww{
     text-align: center;
+    color: rgb(145, 146, 52);
+    background-color: rgb(225, 226, 155);
+    border-radius: 5px;
+    padding: 10px 0px;
 }
 header {
     background-color: rgb(226, 234, 178);
 }
 header img{
     text-align: center;
+    height: 300px;width: 500px;
+    border: 10px solid rgb(74, 85, 56);
+}
+main p{
+     text-align: center;
+     font-size: 20px;
+}
+.rr{
+    background-color:rgb(225, 226, 155) ;
+    color: rgb(145, 146, 52);
+    border-radius: 5px;
+    padding: 10px 0px;
 }
